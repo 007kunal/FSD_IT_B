@@ -1,0 +1,21 @@
+//var, let , const
+
+const is used when we know we need to reassign something
+
+
+//datatypes==> strings, numbers, boolean, null, undefined
+
+
+null is an oject
+
+
+//template string
+console.log(`my name is ${name} and i am ${age} years old`);
+
+{``}
+
+a method need paranthesis()
+
+, comma is used in string slicing
+
+console.log(s.split(''))==> converts a string and creates a list
